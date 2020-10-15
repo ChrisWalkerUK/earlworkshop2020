@@ -1,19 +1,19 @@
 Food category,UK GHG emissions (kgCO2e/kg),type
 Alcoholic Beverages,3.3,Vegan
-Animal Fats,40.1,Carne
+Animal Fats,40.1,Meat
 Apples,0.7,Vegan
-"Aquatic Animals, Others",0,Carne
+"Aquatic Animals, Others",0,Meat
 Aquatic Plants,0,Vegan
-"Aquatic Products, Other",0,Carne
+"Aquatic Products, Other",0,Meat
 Bananas,1.4,Vegan
 Barley,3.8,Vegan
 Beans,0.8,Vegan
 Beer,3.8,Vegan
 "Beverages, Alcoholic",3.5,Vegan
 "Beverages, Fermented",2.4,Vegan
-Bovine Meat,68.8,Carne
+Bovine Meat,68.8,Meat
 "Butter, Ghee",1.8,Vegetarian
-Cephalopods,5.4,Carne
+Cephalopods,5.4,Meat
 Cereals - Excluding Beer,1.8,Vegan
 "Cereals, Other",1.8,Vegan
 "Citrus, Other",0.7,Vegan
@@ -22,15 +22,15 @@ Coconut Oil,2.1,Vegan
 Coconuts - Incl Copra,2.1,Vegan
 Coffee,10.1,Vegan
 Cream,2.4,Vegetarian
-Crustaceans,5.4,Carne
+Crustaceans,5.4,Meat
 Dates,1.1,Vegan
-Demersal Fish,5.4,Carne
+Demersal Fish,5.4,Meat
 Eggs,4.9,Vegetarian
-"Fats, Animals, Raw",35.6,Carne
-"Fish, Body Oil",0,Carne
-"Fish, Liver Oil",0,Carne
-"Fish, Seafood",5.4,Carne
-Freshwater Fish,5.4,Carne
+"Fats, Animals, Raw",35.6,Meat
+"Fish, Body Oil",0,Meat
+"Fish, Liver Oil",0,Meat
+"Fish, Seafood",5.4,Meat
+Freshwater Fish,5.4,Meat
 Fruits - Excluding Wine,0.9,Vegan
 "Fruits, Other",0.9,Vegan
 Grapefruit,0.8,Vegan
@@ -41,14 +41,14 @@ Honey,1,Vegetarian
 "Lemons, Limes",0.6,Vegan
 Maize,0.7,Vegan
 Maize Germ Oil,0.4,Vegan
-"Marine Fish, Other",5.4,Carne
-Meat,35.9,Carne
-"Meat, Other",35.7,Carne
+"Marine Fish, Other",5.4,Meat
+Meat,35.9,Meat
+"Meat, Other",35.7,Meat
 Milk - Excluding Butter,1.8,Vegetarian
-"Molluscs, Other",0,Carne
-Mutton & Goat Meat,64.2,Carne
+"Molluscs, Other",0,Meat
+Mutton & Goat Meat,64.2,Meat
 Oats,1,Vegan
-Offals,35.9,Carne
+Offals,35.9,Meat
 Oilcrops,1.8,Vegan
 "Oilcrops Oil, Other",2.4,Vegan
 "Oilcrops, Other",2.3,Vegan
@@ -59,14 +59,14 @@ Onions,0.5,Vegan
 Palm Oil,3.3,Vegan
 Palmkernel Oil,0,Vegan
 Peas,1.2,Vegan
-Pelagic Fish,5.4,Carne
+Pelagic Fish,5.4,Meat
 Pepper,2.5,Vegan
-Pigmeat,7.9,Carne
+Pigmeat,7.9,Meat
 Pimento,3.2,Vegan
 Pineapples,1.9,Vegan
 Plantains,1.6,Vegan
 Potatoes,0.4,Vegan
-Poultry Meat,5.4,Carne
+Poultry Meat,5.4,Meat
 Pulses,3.3,Vegan
 "Pulses, Other",3.5,Vegan
 Rape and Mustard Oil,2.9,Vegan
